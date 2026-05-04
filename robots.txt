@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://hktanvir24.github.io/home-tutor-bangladesh/sitemap.xml
